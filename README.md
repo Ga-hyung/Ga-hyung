@@ -10,6 +10,7 @@ I am studying for a master's degree in Artificial Intelligence. ✍️
  - Bioinformatics
 
 **Skills 💪**
+
 <img src="https://img.shields.io/badge/Python-E5E4E2?style=flat-square&logo=python"/>  <img src="https://img.shields.io/badge/Pytorch-E5E4E2?style=flat-square&logo=pytorch&logoColor=red"/>  <img src="https://img.shields.io/badge/Pandas-E5E4E2?style=flat-square&logo=pandas&logoColor=darkblue"/>  <img src="https://img.shields.io/badge/Numpy-E5E4E2?style=flat-square&logo=numpy&logoColor=lightblue"/> <img src="https://img.shields.io/badge/DGL-E5E4E2?style=flat-square"/> 
 
 
