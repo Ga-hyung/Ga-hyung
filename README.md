@@ -7,7 +7,6 @@ I am studying for a master's degree in Artificial Intelligence. ✍️
 **My field of interest are:** 
  - Graph Neural Network(GNN) 
  - Recommender System
- - Bioinformatics
 
 **Skills 💪**
 
